@@ -1,11 +1,11 @@
 ########################################################
-#	                  Prerequisites                    #
+	                  Prerequisites                    
 ########################################################
 - JRE and JDK is installed and their paths added the Path environment variable.
 
 
 ########################################################
-#		               Usage                           #
+		               Usage                           
 ########################################################
 - Open 3 separate Command Prompts and navigate to the program source directory
 - In window 1, compile all java classes using the command "javac *.java"
@@ -35,7 +35,7 @@ http://www.distributed.com/addNums?para1=20&param2=30&param3=50
 
 
 ########################################################
-#		          Program Description                  #
+		          Program Description                  
 ########################################################
 
 - The HTTP Server, DNS Server, Root Server, TLD NameServer and Authoritative NameServer each export a public interface and has
@@ -81,8 +81,8 @@ http://www.distributed.com/addNums?para1=20&param2=30&param3=50
 
 
 ########################################################
-#		          Program Description &                #
-#		          comparison to DNS                    #
+		          Program Description &                
+		          comparison to DNS                    
 ########################################################
 
 The program involves the use of Java RMI to simulate an HTTP client server
@@ -121,8 +121,8 @@ object where it can pass in the parameters to the method specified by the user i
 the URL and return a result.
 
 ########################################################
-#		          Limitations &	          		       #
-#		          Suggested Improvements 	           #
+		          Limitations &	          		       
+		          Suggested Improvements 	           
 ########################################################
 Below are some of the limitations and suggested improvements that can be made
 to the current implementation
